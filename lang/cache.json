@@ -68,14 +68,16 @@
     "fr": "HW: GPUs et Coral",
     "de": "HW: GPUs und Coral",
     "it": "HW: GPUs e Coral",
-    "pt": "HW: GPUs e Coral"
+    "pt": "HW: GPUs e Coral",
+    "se": "HW: GPUs och Coral"
   },
   "Return to Main Menu": {
     "es": "Volver al menú principal",
     "fr": "Retour au menu principal",
     "de": "Zum Hauptmenü zurückkehren",
     "it": "Torna al menu principale",
-    "pt": "Retornar ao menu principal"
+    "pt": "Retornar ao menu principal",
+    "se": "Gå tillbaka till huvudmeny"
   },
   "Disk and Storage Menu": {
     "es": "Menú de discos y almacenamiento",
