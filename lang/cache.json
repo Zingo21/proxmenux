@@ -28,7 +28,8 @@
     "fr": "GPUs et Coral-TPU",
     "de": "GPUs und Coral-TPU",
     "it": "GPUs e Coral-TPU",
-    "pt": "GPUs e Coral-TPU"
+    "pt": "GPUs e Coral-TPU", 
+    "se": "GPUs och Coral-TPU"
   },
   "Hard Drives, Disk Images, and Storage": {
     "es": "Discos duros, imágenes de disco y almacenamiento",
