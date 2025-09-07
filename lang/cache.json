@@ -52,14 +52,16 @@
     "fr": "Paramètres",
     "de": "Einstellungen",
     "it": "Impostazioni",
-    "pt": "Configurações"
+    "pt": "Configurações",
+    "se": "Inställningar"
   },
   "Exit": {
     "es": "Salir",
     "fr": "Quitter",
     "de": "Beenden",
     "it": "Esci",
-    "pt": "Sair"
+    "pt": "Sair",
+    "se": "Avsluta"
   },
   "HW: GPUs and Coral": {
     "es": "HW: GPUs y Coral",
