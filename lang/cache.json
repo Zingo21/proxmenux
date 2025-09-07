@@ -4,21 +4,24 @@
     "fr": "Langue changée en",
     "de": "Sprache geändert zu",
     "it": "Lingua cambiata in",
-    "pt": "Idioma alterado para"
+    "pt": "Idioma alterado para",
+    "se": "Språk har bytts till"
   },
   "Main Menu": {
     "es": "Menú principal",
     "fr": "Menu principal",
     "de": "Hauptmenü",
     "it": "Menu principale",
-    "pt": "Menu principal"
+    "pt": "Menu principal",
+    "se": "Huvudmeny"
   },
   "Select an option:": {
     "es": "Seleccione una opción:",
     "fr": "Sélectionnez une option:",
     "de": "Wählen Sie eine Option aus:",
     "it": "Selezionare un'opzione:",
-    "pt": "Selecione uma opção:"
+    "pt": "Selecione uma opção:",
+    "se": "Välj ett alternativ:"
   },
   "GPUs and Coral-TPU": {
     "es": "GPUs y Coral-TPU",
